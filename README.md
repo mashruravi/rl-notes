@@ -1,2 +1,3 @@
-# rl-notes
-Notes about Reinforcement Learning
+# Reinforcement Learning Notes
+[CS 285 - Deep Reinforcement Learning](cs-285/)
+
